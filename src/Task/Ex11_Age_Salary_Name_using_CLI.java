@@ -1,4 +1,4 @@
-package ex_01_Java_Basic;
+package Task;
 
 public class Ex11_Age_Salary_Name_using_CLI {
     public static void main(String[] args) {

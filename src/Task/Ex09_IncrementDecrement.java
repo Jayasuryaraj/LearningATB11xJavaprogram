@@ -1,4 +1,4 @@
-package ex_01_Java_Basic;
+package Task;
 
 public class Ex09_IncrementDecrement {
                       public static void main(String[] args) {
@@ -7,3 +7,7 @@ public class Ex09_IncrementDecrement {
                         System.out.println(a);
                 }
         }
+/* --a= 19
+a++ 19+1
+a-- 19
+ */
