@@ -15,8 +15,8 @@ public class Ex2_Handson {
     }
 }
 class BankAcc{
-    private String Name;
-    private long Balance;
+    private String Name; //Instance variable, Attributes,Fields, data variables, Property,Member variables
+    private long Balance; //Instance variable
 
     public BankAcc(String Name, long Balance) {
         this.Balance = Balance;

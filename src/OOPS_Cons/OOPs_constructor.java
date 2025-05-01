@@ -1,4 +1,4 @@
-package OOPS_Example;
+package OOPS_Cons;
 
 public class OOPs_constructor {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Ex11_Super_handson2;
+package Ex12_Super_handson2;
 
 public class SupervsThis {
     public static void main(String[] args) {
