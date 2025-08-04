@@ -6,8 +6,10 @@ public class IIB {
         //Instance Intilization Block- IIB
     }
 }
+
 class A {
     //DC
+    //DC Name and class name should be same
     A(){
         System.out.println("Default Constructor");
     }

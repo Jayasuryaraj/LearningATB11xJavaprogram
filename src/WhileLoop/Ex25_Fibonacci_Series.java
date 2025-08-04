@@ -20,7 +20,6 @@ public class Ex25_Fibonacci_Series {
           fact = 24*5=120
             */
             factorial = factorial * i ;
-
     }}
         System.out.println("factorial of the given number is : "+ factorial);
 }
